@@ -1,0 +1,9 @@
+.parent {
+  padding: 20px;
+  position: relative;
+}
+#absolute {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+}
